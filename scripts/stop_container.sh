@@ -3,4 +3,4 @@ set -e
 
 # Stop the running container (if any)
 
-docker rm -f clever_goldberg
+docker rm -f 324dac11ecaa 
